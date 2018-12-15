@@ -1,13 +1,13 @@
-# Acoger Ideas
-## ¿Por qué usar la palabra "acoger"?
+# Chapter 1
 
-*Acoger* es un verbo que [signfica, según la RAE](http://dle.rae.es/?id=0VxZMOR):[^1] "servir de refugio o albergue a alguien". Al __acoger una idea__ elevo la palabra y la convierto en una entidad porque una idea tiene vida. También significa "Recibir con un sentimiento o manifestación especial la aparición de personas o de hechos." Y es que la ideas son escasas, los pensamientos son muchos pero las ideas no aparecen de la misma forma y tampoco al mismo ritmo. A las ideas se les recibe de una forma especial. Agrega la RAE en su listado de definiciones: "Proteger, amparar." Convierta su cuerpo, su grupo de trabajo, su mente, en una casa que recibe-crea las ideas y las protege, les da amparo. Puede que no se queden por mucho tiempo pero mientras estén bajo su techo, van a estar bien.
+This is some default content for a new Leanpub book.
 
-Después de pasar por su vida la idea se va y se convierte en algo distinto. Puede que su paso, breve, no tenga un sentido por ahora; eso no lo sabemos aún, pero los invitados dejan en su paso la estela de las conversaciones, un poco de rastros y cuando pasan cosas hermosas, la sensación de una espera para que esa visita se repita.
+You can download the manuscript folder containing the plain text files from which this book is generated. That way, you can see how everything in this book is actually written.
 
-La acogida es un acto que está en constante transformación. Hemos pasado de una obligación con el viajero porque ¿cómo no acogerlo? puede que sea un dios oculto disfrazado y así queda escrito en la Odisea, o la suerte que tuvo a su favor Telémaco que fue atendido por varias casas cuando sale de casa en busca de su padre. Ahora recibimos en casa a un persona que conocemos por una red o por un sistema que mueve a los nuevos viajeros de _couchsurfing_.
+Here is the download link for a zip file with the manuscript of this book: [https://github.com/leanpub/default-new-book-content/archive/master.zip](https://github.com/leanpub/default-new-book-content/archive/master.zip).
 
-# Referencias
-## Enlaces
+Please note you can find our manual here: [https://leanpub.com/help/manual](https://leanpub.com/help/manual).
 
-[^1]: Diccionario de la Lengua Española. _Acoger_. Tomado de: http://dle.rae.es/?id=0VxZMOR 
+We also have a author Help Center here: [http://help.leanpub.com/author-help](http://help.leanpub.com/author-help).
+
+In the following chapters you'll see some simple examples of how to format your writing and how to insert images.
