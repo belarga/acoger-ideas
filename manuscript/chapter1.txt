@@ -1,13 +1,28 @@
-# Chapter 1
+#  Libro 1
 
-This is some default content for a new Leanpub book.
+## Prólogo
+Bienvenidos al tiempo para crear. Al parecer, hemos diseñado las condiciones para alimentar un discurso, una historia sin fondo, cuyo protagonista es la creatividad. Si no somos capaces de crear no habrá futuro. No importan nuestros hábitos ni las decisiones que tomemos porque todo va a estar bien, seguro que sí; porque este es el tiempo para crear. Alguna solución a los problemas actuales, a un clima desbordado por nuestro consumo llegará porque hay algún genio cocinando una respuesta.
+Vivimos un nuevo tiempo donde crear es parte de las oportunidades para el desarrollo personal y profesional: se dice que los trabajos del futuro están por ser descubiertos, o se estima, según el Instituto para el Futuro (IFTF por sus siglas en Inglés) que el 85% de los trabajos del 2030 aún no han sido inventados. De modo que tenemos que crear el futuro desde un referente que desconocemos porque el pasado, aunque nos ofrece una perspectiva, no nos presenta un mapa para seguir.
+Vamos a crear el tiempo, nosotros solos. Porque el tiempo y la creación van de la mano.
 
-You can download the manuscript folder containing the plain text files from which this book is generated. That way, you can see how everything in this book is actually written.
+## El mito
+Son muchas las culturas que tienen una narración que describe el origen de su pueblo y según Julian Baggini en The Guardian, hay una sola tribu en la amazonía, los Piraha, que no tienen un mito fundacional. Algunas culturas  toman distancia de esa historia inicial, mientras que otras quisieran no tener el peso de esos símbolos e imágenes originales. En la mayoría de esas narraciones el nacimiento de los humanos es producto de una fuerza poderosa que nos hizo a su semejanza o producto de un cataclismo del que emergen humanos. Los creadores son la Luna, el Sol, algún Viento, el Mar, esa Montaña que se asoma a lo lejos o un titán altanero que supo hacerle frente a otro dios, uno con el coraje de asumir su destino -ser consecuente con su carácter- de darnos vida. Prometeo era ese tipo de titán.
+Cuentan, desde Ovidio a otros que han coleccionado los mitos griegos, que Prometeo y su hermano Epimeteo recibieron de Cronos la tarea de crear criaturas para poblar la Tierra. Ambos descendieron del Olimpo para hacer una figura con un poco de barro a semejanza de los dioses; Prometeo junto con su hermano crearon los humanos y los animales y Zeus les dio la vida con un soplo. Como era de esperarse un nuevo drama empezaba a tomar fuerza, en parte porque los humanos adoraron de inmediato a Zeus mientras que los animales no fueron tan amables con ese padre. Ofendido Zeus pide una reparación y le prohibe a los hermanos darles sabiduría a cualquiera de las dos creaciones.
+Prometeo había sanado antes de una migraña a Zeus con una golpe en la cabeza -y en los mitos las líneas de tiempo son un tanto difusas-, uno tan fuerte que le abrió espacio en el craneo por donde escapó Atenea y vale contar ese origen porque es esa diosa la que le enseña a Prometeo cómo hacer sabios a los humanos. Zeus exige un sacrificio de parte de los humanos y Prometeo organiza el evento con una trampa que no resulta tal y como se esperaba porque Zeus se de cuenta del asunto y aprovecha el caso para sumar otra razón de ira (la furia que siempre lo acompaña) contra los humanos. 
+El castigo fue mantener a los humanos en la oscuridad, en cuevas, con frío, con miedo de la noche. Según Bernard Evslin el diálogo entre Prometeo y Zeus fue: “Zeus, ¿Por qué mantienes a la raza de los hombres en la ignorancia y oscuridad?” la respuesta de Zeus fue: “Lo que llamas ignorancia es inocencia” Prometeo le pregunta de nuevo por qué no quiere darle fuego a los humanos y Zeus confirma su preocupación: “Porque oculto en los hombres está el orgullo que nos puede destruir. Dales un sirviente poderoso como el fuego e intentarán hacerse tan fuertes como los dioses.” (Evslin, 1974, Location 2499)
+Prometeo roba el fuego y nos hace entrega del poder de crear, transformar, fundir, y con este regalo no solo nacen los oficios sino la capacidad de hacer de una idea una posibilidad, crear herramientas para crear más. Por su obra Prometeo es atado para que el águila Etón se coma su hígado pero debe revivir esta condena una y otra vez por cuenta de su inmortalidad.
+## El mito, mañana
+Desde Platón hasta Byung-Chul Han, pasando por Franz Kafka y Sigmund Freud, el mito de Prometeo ha sido reinterpretado tantas veces como los ataques de Etón. No sobra tener vivo el mito como compañero de viaje porque en el curso de este libro podremos perder impulso y nada como un tener un titán cerca para retomar la senda. No me atrevo a hacer una interpretación del mito pero hay un par de ideas que no quisiera dejar pasar porque son una oportunidad. Por un lado están los nombres de los creadores de humanos y animales.  Prometeo significa “pensamiento-adelante” y el de su hermano Epimeteo, en una suerte de polaridad, significa “pensamiento-tardío”. Un par de titanes creando humanos y nos dejan debatiéndonos entre el futuro y el pasado, atrapados en una historia de vanidad con un mito fundacional donde el tiempo se rasga entre lo que podemos crear y lo que hemos creado.
 
-Here is the download link for a zip file with the manuscript of this book: [https://github.com/leanpub/default-new-book-content/archive/master.zip](https://github.com/leanpub/default-new-book-content/archive/master.zip).
+## Referencias
+Baggini, J. (2006). Why do we have creation myths?. *The Guardian*[https://www.theguardian.com/theguardian/2006/mar/28/features11.g21][1]
 
-Please note you can find our manual here: [https://leanpub.com/help/manual](https://leanpub.com/help/manual).
+Evslin, B. (1975). Gods, Demigods and Demons: An Encyclopedia of Greek Mythology (p. 198). Open Road Media. Kindle Edition.
 
-We also have a author Help Center here: [http://help.leanpub.com/author-help](http://help.leanpub.com/author-help).
+Han, Byung-Chul. (2017). La sociedad del cansancio: Segunda edición ampliada. Herder Editorial. Kindle Edition.
 
-In the following chapters you'll see some simple examples of how to format your writing and how to insert images.
+Institute for the Future y Dell Technologies. (2017) The next era of human|machine partnerships: Emerging technologies’ impact on Society & Work in 2030. IFTF.
+
+Nasón, Publio Ovidio. La metamorfosis. Kindle Edition. 
+
+[1]:	https://www.theguardian.com/theguardian/2006/mar/28/features11.g21
